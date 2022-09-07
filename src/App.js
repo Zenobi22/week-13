@@ -1,7 +1,9 @@
 import './App.css';
+import Forms from 'components/form';
 import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
+;
 
 export default function App() {
   return (
@@ -16,6 +18,7 @@ export default function App() {
         </Nav>
       </Container>
     </Navbar>
+    <Forms />
         </div>
       );
     }

@@ -8,10 +8,21 @@ body {
   font-size:200%;
   background-color: black;
   height:100px;
-  width:150%;
-  position:absolute;
+  width:200%;
+  position:absolute;right:0;left:0;
 }
 
+.Forms {
+  border:2px solid black;
+  border-radius:8px;
+  justify-content:center;
+  text-align:center;
+  font-size: 50%;
+  margin: 150px 75px 150px 700px;
+  height:300px;
+  width: 400px;
+  background:white;
+}
 
 
 
